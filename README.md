@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ixeltal</h1>
 <h3 align="center">A beginner frontend developer from French</h3>
 
-- 🔭 I’m currently working on **secret project and th bot discord**
+- 🔭 I’m currently working on **secret project and the bot discord**
 
 - 🌱 I’m currently learning **HTML5, CSS3, PHP, NodeJS**
 
