@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **I am calm... I think... lol**
 
-- 💻 Train **The Java Script**
+- 💻 I would Train **The Java Script**
 
 
 <h3 align="left">Languages and Tools:</h3>
