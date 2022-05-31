@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ixeltal</h1>
 <h3 align="center">A beginner frontend developer from French</h3>
 
-- 🔭 I’m currently working on **secret project and the bot discord "Mitsumaki"**
+- 🔭 I’m currently working on **secret project and the discord bot "Mitsumaki"**
 
 - 🌱 I’m currently learning **HTML5, CSS3, PHP, NodeJS**
 
 - 💬 Ask me about **my projets**
 
-- 📫 How to reach me **On discord : Ixeltal#2210**
+- 📫 How to reach me **On discord : Ixeltal#8305**
 
 - ⚡ Fun fact **I am calm... I think... lol**
 
