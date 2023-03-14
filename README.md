@@ -29,5 +29,5 @@
 &nbsp;
 <a href="https://git-scm.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30px" /></a>
 &nbsp;
-<a href="https://git-scm.com"><img src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />" width="30px" /></a>
+<a href="https://git-scm.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />" width="30px" /></a>
 &nbsp;
