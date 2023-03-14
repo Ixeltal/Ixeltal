@@ -27,7 +27,5 @@
 **Language, Framework, Database and Software used:**
 
 <a href="https://code.visualstudio.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30px" /></a>
-
 &nbsp;
-
 <a href="https://git-scm.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30px" /></a>
