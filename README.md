@@ -43,3 +43,9 @@
 &nbsp;
 <a href="https://git-scm.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" width="45px" /></a>
 &nbsp;
+
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ixeltal&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Stats](https://github-readme-stats.vercel.app/api?username=Ixeltal&theme=dracula&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Ixeltal's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ixeltal&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
