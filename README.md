@@ -6,7 +6,7 @@
 **About me :**
 
 - 🤳 I've been coding for 2 years
-- 💻 I work for Passionne
+- 💻 I work for Passionne Esport
 
 ---
 
