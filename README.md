@@ -1,20 +1,18 @@
 <h1 align="center">Hi 👋, I'm Ixeltal</h1>
-<h3 align="center">A beginner frontend developer from French</h3>
+<h3 align="center">frontend developer</h3>
 
 ---
 
 **About me :**
 
-- 🤳 I've been coding for 2 years
+- 🤳 I've been coding for 3 years
 - 💻 I work for Passionne Esport
 
 ---
 
 - 🔭 I’m currently working on **secret project and the discord bot "Mitsumaki"**
 
-- 🌱 I’m currently learning **HTML5, CSS3, PHP, NodeJS**
-
-- 💬 Ask me about **my projets**
+- 💬 Love Volleyball! 
 
 - 📫 How to reach me **On discord : Ixeltal#8305**
 
