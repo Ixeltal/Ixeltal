@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ixeltal</h1>
-<h3 align="center">frontend developer</h3>
+<h3 align="center">developer</h3>
 
 ---
 
@@ -10,11 +10,11 @@
 
 ---
 
-- 🔭 I’m currently working on **secret project and the discord bot "Mitsumaki"**
+- 🔭 I’m currently working on **Passionne Website and the overlay rocket league **
 
 - 💬 Love Volleyball! 
 
-- 📫 How to reach me **On discord : Ixeltal#8305**
+- 📫 How to reach me **On discord : Ixeltal**
 
 - ⚡ Fun fact **I am calm... I think... lol**
 
