@@ -45,4 +45,4 @@
 ---
 
 
-[![Ixeltal's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?layout=compact&username=limerio)](https://wakatime.com/@Ixeltal)
+[![Ixeltal's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?layout=compact&username=Ixeltal)](https://wakatime.com/@Ixeltal)
