@@ -41,9 +41,9 @@
 &nbsp;
 <a href="https://git-scm.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" width="45px" /></a>
 &nbsp;
-<a href="https://fr.wordpress.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" /></a>
+<a href="https://fr.wordpress.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" width="45px" /></a>
 &nbsp;
-<a href="https://fr.react.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" /></a>
+<a href="https://fr.react.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="45px" /></a>
 &nbsp;
             
           
