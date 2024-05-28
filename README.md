@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ixeltal</h1>
-<h3 align="center">developer</h3>
+<h3 align="center"> Web Developer</h3>
 
 ---
 
